@@ -1,0 +1,16 @@
+# Build output
+.deriveddata/
+DerivedData/
+build/
+
+# Xcode per-user state
+xcuserdata/
+*.xcuserstate
+
+# macOS
+.DS_Store
+
+# Claude working notes (kept local)
+CLAUDE.md
+HANDOFF.md
+.screenshots-src/
